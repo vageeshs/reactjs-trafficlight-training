@@ -1,7 +1,5 @@
 ## ReactJS UI for test traffic lights SaaS
 
-[To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
-
 ### Clone the repo
 
 ```
