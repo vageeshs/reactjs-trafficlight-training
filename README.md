@@ -12,4 +12,4 @@ npm start
 You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
 
 ![Demo UI interaction]
-(public/ezgif.com-optimize.gif)
+(blob/master/public/ezgif.com-optimize.gif)
