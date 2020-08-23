@@ -11,4 +11,4 @@ npm start
 ```
 You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
 
-![Demo UI interaction](blob/master/public/ezgif.com-optimize.gif)
+![Demo UI interaction](https://github.com/vageeshs/reactjs-trafficlight-training/blob/master/public/ezgif.com-optimize.gif)
